@@ -3,9 +3,9 @@ package com.wangzs.common;
 import android.os.Build;
 
 /**
- * 
- * @author wangzhenshui@yy.com
- * @date   2014年11月6日
+ * VersionUtilis - judge support android version  
+ * @author wang.zhenshui07@gamil.com
+ * @date   2014/11/06
  */
 public class VersionUtilis {
 	private final static String TAG = "VersionUtilis";
